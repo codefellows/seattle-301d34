@@ -41,4 +41,4 @@ allie@codefellows.com
 Regex pattern: \w+@\w+.\w+
 
 allie.grampa@codefelllows.com   
-Regex pattern: \w+.?\w+?@\w+.\w+
+Regex pattern: \w+\.?\w+?@\w+.\w+
