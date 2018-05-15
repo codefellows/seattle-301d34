@@ -6,39 +6,46 @@
 
 // can be used for any AJAX request
 $.ajax({
-
-});
+  url: 'https://pokeapi.co/api/v2/pokemon/42',
+  method: 'GET',
+  success: function (data, message) {
+    console.log(data);
+  },
+  fail: function (err) {
+    console.error(err);
+  }
+})
 
 // shorthand to specifically make a GET request
-$.get();
+$.get('data.json', (data) => console.log(data));
 
-$.get();
+$.get('data.json', (data) => console.log($.get('data.json')));
 
 // this will work for a text file
-$.get();
+$.get('sample.txt', (data) => console.log(data));
 
 // go a step further and only accept JSON
 // this will not work because it is not JSON
-$.getJSON();
+$.getJSON('sample.txt', (data) => console.log(data));
 
 // will not fail if it receives properly formatted JSON, even if the file extension is not .json
-$.getJSON();
+$.getJSON('data.txt', (data) => console.log(data));
 
-// will fail if if receives malformed JSON, even if the file extension is .json
+// will fail if it receives malformed JSON, even if the file extension is .json
 // no error handling here, so it will fail silently with no feedback to the user
-$.getJSON();
+$.getJSON('invalid-data.json', (data) => console.log(data));
 
 // this will skip the .then altogether and move past it to the .catch
-$.getJSON()
-  .then()
-  .catch();
+$.getJSON('invalid-data.json')
+  .then(data => console.log(data))
+  .catch(err => console.error(err))
 
 // larger example
 // handle the error at every point so that, if an error occurs, you'll know where it occurred
 $.getJSON('data.json')
-  .then()
-  .catch()
-  .then()
-  .catch()
-  .then()
-  .catch();
+  .then(data => console.log(data))
+  .catch(err => console.error(err))
+  .then(() => console.log('in the second .then'))
+  .catch(err => console.error(err))
+  .then(() => console.log('in the third .then'))
+  .catch(err => console.error(err))
