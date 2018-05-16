@@ -5,7 +5,7 @@
 
 *Databases power web applications everywhere by enabling them to persist, modify, and query datasets to great effect. While there are many types of database options available now, Structured Query Language (SQL) remains the de facto standard for communicating with relational database systems. Let's build some SQL skills!*
 
-*View this class and the next class and labs as a big two-part structure. It's all the same basic subject, but way too much for one day, so we've split it.*
+*View this class and the next class, and their associated labs, as a big two-part structure. It's all the same basic subject, but way too much for one day, so we've split it.*
 
 
 ## Readings
@@ -16,6 +16,7 @@
 
 ## Daily Plan
 - Announcements
+  - Make sure to ping Allie with requests for partners for next week!
 - Code Review
 - New Material
 - Code Demos
