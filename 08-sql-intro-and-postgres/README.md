@@ -27,3 +27,16 @@
 * Understand the basic concepts of databases
 * Effectively use basic SQL commands to create, read, update, and delete rows from a table
 * Understand the fundamental architecture of full-stack applications and how we can locally emulate them
+
+## Code Review: Part 1
+
+Draw a diagram of the flow of requests and responses when a user fills out the new article form and hits `submit`. Your diagram should include:
+  * A client
+  * A server
+  * The user clicking a button
+  * The line of code that causes a request to go to the server
+  * The line of code that lets the server hear that request
+  * The line of code that causes the server to send a response
+  * The code that executes after a response comes back
+  * Pretty arrows for requests and responses
+  
