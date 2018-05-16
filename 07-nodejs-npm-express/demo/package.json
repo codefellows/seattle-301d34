@@ -1,0 +1,21 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "Server and Express demo for class 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "express",
+    "server"
+  ],
+  "author": "Allie Grampa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
