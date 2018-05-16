@@ -8,7 +8,7 @@
 ## Readings
 <!-- List of readings required for this content; readings being completed by the start of this lecture -->
 * [SQLBolt (Lessons 6-7) (Essential)](http://sqlbolt.com/lesson/select_queries_with_joins)
-* [A Primer on SQL (Chapter 11) (Reference)](https://leanpub.com/aprimeronsql/read#leanpub-auto-understanding-joins)
+* [A Primer on SQL (Chapter 11) (Reference)](https://ia801302.us.archive.org/6/items/aprimeronsql/aprimeronsql.pdf)
 * [Visual Guide to SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
 
 ## Daily Plan
