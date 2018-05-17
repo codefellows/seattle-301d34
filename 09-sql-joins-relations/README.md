@@ -13,6 +13,7 @@
 
 ## Daily Plan
 - Announcements
+  - We removed the last Partner Power Hour report assignment from Canvas--you don't have to fill out that report on your presentation day.
 - Code Review
 - New Material
 - Code Demos
@@ -24,3 +25,29 @@
 - Have familiarity with queries using SQL that select data from across multiple tables
 - Have familiarity with different relationships in database tables
 
+## Code Review Warmup Questions
+
+1. What is the difference between these two pieces of code?
+
+```js
+const dataObject = { title: 'Title Words', author: 'Me' };
+// snippet 1
+$.ajax({
+  method: 'POST',
+  url: '/articles',
+  data: dataObject,
+  success: data => console.log(data)
+});
+
+// snippet 2
+$.post('/articles', dataObject, data => console.log(data));
+```
+
+2. Fill in this table.
+
+| CRUD word | HTTP method | SQL command |
+|-----------|-------------|-------------|
+| Create | | |
+| Read | | |
+| Update | | |
+| Delete | | |
