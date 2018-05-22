@@ -26,3 +26,13 @@
 * Identify useful urls for an app, and be able to implement those routes given the new library presented.
 * Recognize other server technologies such as Node, new dependencies
 
+## Warmup: Review Questions
+
+1. What is Node? 
+1. What is Express? 
+1. What is jQuery? 
+1. What is PostgresQL? 
+1. What is psql? 
+1. What is pg?
+2. Draw our diagram for the app we've built so far.
+3. What does MVC mean? How does it relate to frontend/backend/database?
