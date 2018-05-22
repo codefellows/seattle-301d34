@@ -28,11 +28,11 @@
 
 ## Warmup: Review Questions
 
-1. What is Node? 
-1. What is Express? 
-1. What is jQuery? 
-1. What is PostgresQL? 
-1. What is psql? 
-1. What is pg?
-2. Draw our diagram for the app we've built so far.
+1. What is Node? Where does it run?
+1. What is Express? Where does it run?
+1. What is jQuery? Where does it run?
+1. What is PostgresQL? Where does it run?
+1. What is psql? Where does it run?
+1. What is pg? Where does it run?
+2. Draw our client/server/database diagram for the app we've built so far, specifically for the GET /api/v1/books route.
 3. What does MVC mean? How does it relate to frontend/backend/database?
