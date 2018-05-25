@@ -23,3 +23,8 @@
 * Understand the history of HTTP, and the central role that REST plays.
 * Use RESTful routes for a web service, to retrieve their own GitHub repos using an authentication token
 
+## Code Review Warmup Questions
+
+1. What is HTTP? How do we use it?
+2. What is JSON? How do we use it?
+3. What are some different ways that we send HTTP requests? (At least 3!)
