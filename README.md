@@ -122,15 +122,15 @@ In teams, students create a single page web application that demonstrates comman
 
 ##### Quizzes
 
-- Course quizzes (one per week, published on Friday afternoon to be completed over the subsequent weekend) are administered through Canvas.
+- Course quizzes (two per week, published on Wednesday and Friday afternoons) are administered through Canvas.
 
 ##### One On Ones
 
-- The instructor will do one-on-one meetings with each student during Week 2 and possibly also during Week 4.
+- The instructor will do one-on-one meetings with each student during Week 2.
 
 ##### Reading Assignments
 
-- Reading is one of the primary language-learning processes that students will utilize to develop their skills. Each day, one or more reading assignments is due before the start of lecture. Students are expected to make at least one observation and ask a question to promote curiosity and class discussion. Their submission is completed by them and graded within the Canvas course. The reading submissions in Canvas are by default setup to be graded with either a ‘complete’ or ‘incomplete’ mark, and as a result, the late submission policy is not in effect for reading assignments.
+- Reading is one of the primary language-learning processes that students will utilize to develop their skills. Each day, one or more reading assignments is due before the start of lecture. Students are expected to ask a question to promote curiosity and class discussion. Their submission is completed by them and graded within the Canvas course. The reading submissions in Canvas are by default setup to be graded with either a ‘complete’ or ‘incomplete’ mark, and as a result, the late submission policy is not in effect for reading assignments.
 
 
 [-top-](#top)
